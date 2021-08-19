@@ -6,21 +6,20 @@
 
 ### 2. Recommendations
 If you are using a mac, it is recommended to create a virtual workspace for the project. This way, the default system python will not be affected by the libraries being installed
- 1. On you terminal run the following
+ 1. On you terminal run the following  
+```
+python3 -m pip install --user virtualenv
+```
 
-      
-    python3 -m pip install --user virtualenv
 2. Create a virtual environment
-
-   
-    python3 -m venv env
-
+```
+python3 -m venv env
+```
 
 3. Activate the workspace
-    
-
-    source env/bin/activate
-
+``` 
+source env/bin/activate
+```
 
 ### 3. Install dependencies
 
