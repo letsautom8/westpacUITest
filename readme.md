@@ -107,3 +107,5 @@ The VNC port is exposed so the execution can be inspected.
 To view it, download and vnc client and connect to port `49338`
 
 For example: vnc://localhost:49338
+
+### 7. Test Approach
