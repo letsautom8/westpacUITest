@@ -109,3 +109,7 @@ To view it, download and vnc client and connect to port `49338`
 For example: vnc://localhost:49338
 
 ### 7. Test Approach
+[Test Approach can be found here](https://github.com/letsautom8/westpacUITest/blob/main/testapproach.md)
+
+### 8. Bug Report
+[Bug Report can be found here](https://github.com/letsautom8/westpacUITest/blob/main/Buggy%20Cars%20Rating%20Bugs.docx)
