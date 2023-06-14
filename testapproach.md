@@ -36,8 +36,7 @@ Query:
 Bugs are documented in this [file](https://github.com/letsautom8/westpacUITest/blob/main/Buggy%20Cars%20Rating%20Bugs.docx).
 
 ### Automation setup
-Automation setup is documented here [file](sautom8/westpacUITest/blob/main/readme.md).
-
+Automation setup is documented [here](https://github.com/letsautom8/westpacUITest/blob/main/readme.md)
 #### Further enhancements
 - **API automation**: This will ensure that the api's are working properly before moving to the UI tests and they are fairly quick to execute than UI tests.
 - **Reporting**: via Email or upload via CI/CD
